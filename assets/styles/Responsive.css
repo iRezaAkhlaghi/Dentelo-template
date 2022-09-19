@@ -1,0 +1,100 @@
+
+@media only screen and ( max-width: 992px) {
+    header{
+        padding: 0px 5px;
+    }
+    .header-top{
+        display: none;
+    }
+ .menu{
+    position: absolute;
+        display: block !important;
+        width: 100%;
+        max-width: 750px;
+        max-height: 0px;
+        left: 0;
+        top:80px;
+        box-shadow: 5px 5px 23px #999;
+        padding: 10px;
+        opacity: 0;
+       
+        
+    }
+    .menu.active{
+    
+       opacity: 1;
+        max-height: 220px;
+        transition-duration: 0.5s;
+    
+    }
+    .menu li{
+        margin-bottom: 25px;
+       
+       
+    }
+    .menu li .menu-item{
+        color: var(--jet) !important;
+        text-transform: uppercase !important;
+        font-weight: 600;
+        padding: 15px;
+    }
+    .book-btn{
+        display: none;
+    }
+    .toggle{
+        display: block !important;
+        border: none;
+        cursor: pointer;
+    }
+   .open{
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 2px;
+   }
+.service-banner{
+    display: none;
+}
+.cta-text{
+    font-size: 1.2rem !important;
+}
+.cta-title{
+    font-size: 2.4rem !important;
+    margin-top: 10px;
+}
+.cta-content{
+    padding-bottom: 120px;
+    margin-top: 20px;
+}
+}
+@media only screen and ( max-width: 1200px) {
+    .hero-title{
+    
+        font-size: 3.1rem  !important;
+       
+    }
+    .hero-text{
+      font-size: 1rem !important;
+     
+    }
+    .about-title{
+        font-size: 3rem !important;
+    }
+    .CTA{
+      padding-block: 10px !important;
+      margin-top:0  !important;
+
+    }
+    .cta-banner{
+        margin-block-start: 0 !important;
+       
+    }
+ }
+
+ @media only screen and ( max-width: 768px) {
+    form button{
+        position: static !important;
+        width: 100%;
+        
+    }
+  
+ }

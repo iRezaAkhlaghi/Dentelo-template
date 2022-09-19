@@ -1,0 +1,63 @@
+
+
+@font-face {
+    font-family: "Poppins Bold";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Poppins Light";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: "Poppins Black";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-Black.ttf);
+}
+
+@font-face {
+    font-family: "Poppins Semi";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins Exbold";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins Medium";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Roboto Regular";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto Bold";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Roboto Light";
+    font-weight: normal;
+    font-size: normal;
+    src: url(../fonts/Roboto-Light.ttf);
+}
